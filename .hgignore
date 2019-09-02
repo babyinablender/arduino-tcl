@@ -1,9 +1,0 @@
-syntax: glob
-*~
-*.pyc
-
-syntax: regexp
-(^|/)CVS($|/)
-(^|/)build($|/)
-(^|/)dist($|/)
-(^|/)MANIFEST$
